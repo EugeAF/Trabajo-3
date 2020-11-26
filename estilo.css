@@ -1,0 +1,27 @@
+body {
+    background-color: darksalmon;
+}
+
+h1 {
+    font-family: 'Modak', cursive;
+    color: red; 
+}
+
+h3 {
+    font-family: 'Modak', cursive;
+    font-size: 30px;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.parrafos-verdes {
+    color: green;
+}
+
+#primer-parrafo {
+    background-color: orange;
+}
+
